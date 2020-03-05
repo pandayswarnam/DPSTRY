@@ -1,6 +1,6 @@
 # DPS310-Digital-Pressure-Sensor
 
-[![Build Status](https://travis-ci.org/Infineon/DPS310-Pressure-Sensor.svg?branch=master)](https://travis-ci.org/Infineon/DPS310-Pressure-Sensor)
+[![Build Status](https://travis-ci.org/Infineon/DPS310-Pressure-Sensor.svg?branch=master)](https://travis-ci.org/Infineon/DPS310-Pressure-Sensor) [![Join the chat at https://gitter.im/DPSTRY/community](https://badges.gitter.im/DPSTRY/community.svg)](https://gitter.im/DPSTRY/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 <img src="https://github.com/Infineon/Assets/blob/master/Pictures/DPS310_PP.jpg" width=150><img src="https://github.com/Infineon/Assets/blob/master/Pictures/DPS310-Pressure-Shield2Go_Top.png" width=300>
 
